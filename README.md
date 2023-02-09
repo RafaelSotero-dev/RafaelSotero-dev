@@ -1,4 +1,13 @@
-## Olá!! Eu sou o Rafael Sotero, estudante de programação 😊
+## Olá!! Eu sou o Rafael Sotero, Desenvolvedor Full Stack 😊
+
+Sempre fui muito curioso de como as coisas que utilizamos no dia a dia funcionam, buscando a lógica por trás de tudo.
+
+Foi em uma aula de matemática aplicada na faculdade que realmente percebi o quão fascinante era a programação.
+
+Tranquei meu curso e entrei de cabeça nesse mundo da tecnologia e hoje estou em busca da minha primeira experiência profissional na área de desenvolvimento web. 😁
+
+Tecnologias: HTML5 | CSS3 | TypeScript | Python | Git | React | Redux | Jest | RTL | Node.js | Express | Docker | MongoDB | SQL | Sequelize ORM | Figma
+
 <div align="center">
   <a href="https://github.com/RafaelSotero-dev">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelSotero-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
