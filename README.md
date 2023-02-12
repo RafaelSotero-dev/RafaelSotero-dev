@@ -1,4 +1,4 @@
-# Olá 👋!! Eu sou o Rafael Sotero 😊
+# Olá 👋!! Meu nome é Rafael Sotero e eu estudo programação 😊
 
 <div style="display: inline_block" width="20%">
   <div>
