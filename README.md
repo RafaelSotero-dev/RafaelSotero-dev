@@ -1,4 +1,4 @@
-# Olá 👋!! Eu sou o Rafael Sotero, Desenvolvedor Full Stack 😊
+# Olá 👋!! Eu sou o Rafael Sotero 😊
 
 <div style="display: inline_block" width="20%">
   <div>
