@@ -8,13 +8,12 @@
 <br/>
 
 <div align="justify">
-		<img align="right" src="https://pa1.narvii.com/6909/c92d8f3b7babc938ab6686671f207a33c56e3e35r1-500-719_hq.gif" width="200px" height="100px"/>
-	 <p align="left"> Sempre fui muito curioso de como as coisas que utilizamos no dia a dia funcionam, buscando a lógica por trás de tudo.
+	 <p align="center"> Sempre fui muito curioso de como as coisas que utilizamos no dia a dia funcionam, buscando a lógica por trás de tudo.
 	Foi em uma aula de matemática aplicada na faculdade que realmente percebi o quão fascinante era a programação.
 	Tranquei meu curso e entrei de cabeça nesse mundo da tecnologia e hoje estou em busca da minha primeira experiência profissional na área de desenvolvimento web. 😁</p>
 </div>
 
-##
+<br/>
 
 <div align="center" width="100vw">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelSotero-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
