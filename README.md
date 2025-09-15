@@ -8,7 +8,7 @@
 <br/>
 
 <div align="justify">
-	 <p> Desenvolvedor Back-End com 2+ anos de experiência em Node.js, TypeScript. Atualmente sigo aprimorando minhas habilidades em node e em novos frameworks como Fastify. Busco oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de sistemas robustos e escaláveis. 😁</p>
+	 <p> Sou Desenvolvedor Back-End com experiência em Node.js, TypeScript, Express e Fastify, além de bancos de dados PostgreSQL, MySQL, MongoDB e Redis. Tenho prática no uso de Docker, versionamento com Git e desenvolvimento de APIs escaláveis. Também possuo conhecimentos em React e Next.js para integração full stack, e sigo aprimorando minhas habilidades em boas práticas, clean code e arquiteturas robustas. 😁</p>
 </div>
 
 <br/>
