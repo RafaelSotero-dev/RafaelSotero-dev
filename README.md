@@ -8,7 +8,7 @@
 <br/>
 
 <div align="justify">
-	 <p> Desde os meus 13 anos, descobri minha paixão pela tecnologia e o mundo da programação. Nessa idade, comecei a me aventurar na criação de sites simples e pequenos aplicativos. Mesmo sendo um hobby, a programação sempre exerceu um fascínio sobre mim, e eu me dedicava incansavelmente a aprender cada vez mais. Entretanto, aos 18 anos, diante de um momento decisivo, prestei vestibular e obtive aprovação no curso de Matemática. Decidi seguir nessa área, mas o chamado da programação continuou a ecoar em meu coração. Foi então que percebi que poderia unir minha paixão pela matemática e minha habilidade na programação, tornando-me um desenvolvedor Full Stack comprometido em criar soluções inovadoras e eficientes. 😁</p>
+	 <p> Desenvolvedor Back-End com 2+ anos de experiência em Node.js, TypeScript. Atualmente sigo aprimorando minhas habilidades em node e em novos frameworks como Fastify. Busco oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de sistemas robustos e escaláveis. 😁</p>
 </div>
 
 <br/>
